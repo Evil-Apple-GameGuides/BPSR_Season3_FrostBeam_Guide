@@ -61,13 +61,14 @@ Target stats **without buffs**:
 |---|---:|
 | **Haste** | 40% |
 | **Luck+** | 40% |
-| **Mastery** | 40% |
+| **Mastery++** | 40% |
 | **Crit** | 15% |
 
 ### Stat Priorities
 
 - Obtain **Mastery** and **Haste** naturally from raid set pieces.
 - Put all **reforge** and **embeds** into **Luck**.
+- For ocean weapon users, magic damage % / luck % / mastery % / 6% mag boost during permafrost
 - Obtain the required Crit from **Luck / Crit accessory pieces**.
   - Prioritize **big Luck, small Crit**.
 
@@ -165,6 +166,7 @@ Target stats **without buffs**:
 - Obtain **Mastery** and **Haste** naturally from raid set pieces.
 - Put all **reforge** and **embeds** into **Luck**.
 - Obtain the required Crit from **Luck / Crit accessory pieces**.
+- For ocean weapon users, magic damage % / luck % / haste % / 6% mag boost during permafrost
   - Prioritize **big Luck, small Crit**.
 - For the **necklace**, aim for **Haste and Crit**.
 
@@ -212,6 +214,19 @@ Recommended combination:
 | **Imagines** | Furball + Predatory Spider / Muku Chief / Rorola |
 
 ---
+
+## Raid Sets
+
+You have 2 choices with Raid Sets. 
+- mastery stacking: 4 piece Season 1 + 2 piece of Season 2
+- fantasia builds / non-mastery stacking builds: 2 piece Season 1 + 4 piece of Season 2
+
+
+## Talents:
+![Frost Beam](images/talent.jpg)
+
+
+
 
 ## Final Notes
 
