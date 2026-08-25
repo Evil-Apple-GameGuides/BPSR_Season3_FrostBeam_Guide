@@ -195,16 +195,14 @@ You have 2 choices with Raid Sets.
 - fantasia builds / non-mastery stacking builds: 2 piece Season 1 + 4 piece of Season 2
 
 
-## Talents:
+## Talents (boss oriented):
 ![Frost Beam](images/talent.jpg)
+
+**For high master push, you will want to swap out one of the frozen gale talent nodes for frost shock.
 
 
 
 
 ## Final Notes
 
-Frost Beam's limited mobility makes **mechanical positioning and movement efficiency** especially important. The goal is not to avoid moving entirely, but to understand the **minimum movement required** to complete each encounter mechanic while maintaining your damage window.
-
-Use **Endless Mind** when you value a more forgiving and consistent playstyle.
-
-Use **Fantasia Impact** when you want higher potential damage and are comfortable with greater reliance on Luck and lucky procs.
+S3 Frost Beam is a non-meta class. Play only if you like the class.
