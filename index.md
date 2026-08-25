@@ -2,7 +2,7 @@
 
 ## General Playstyle
 
-Frost Beam in Season 3 is a stationary frost cannon with limited mobility. To play the class well, a greater focus is needed on understanding the **minimum required movement** to complete raid or dungeon mechanics.
+Frost Beam in Season 3 is a stationary frost cannon with limited mobility. To play the class well, a greater focus is needed on understanding the **minimum required movement** to complete raid or dungeon mechanics and burst windows around the mechanics.
 
 Frost Beam is a **burst DPS** class that can specialize in either **AoE damage** or **single-target damage**, depending on the build. Builds can be swapped using presets based on the encounter. While adjustments are possible, frost beam is generally not a great AoE DPS in most dungeon content. It falls behind skyward, falcon and smite in most mob packs. It performs slightly worse than formless and vanguard when mob packs are more spread out / do gather well from maelstrom.
 
@@ -63,7 +63,7 @@ Target stats **without buffs**:
 |---|---:|
 | **Haste** | 40% |
 | **Luck+** | 40% |
-| **Mastery++** | 40% |
+| **Mastery+++** | 40% |
 | **Crit** | 15% |
 
 ### Stat Priorities
@@ -73,6 +73,8 @@ Target stats **without buffs**:
 - For ocean weapon users, magic damage % / luck % / mastery % / 6% mag boost during permafrost
 - Obtain the required Crit from **Luck / Crit accessory pieces**.
   - Prioritize **big Luck, small Crit**.
+  - each '+' represent one source of flat % stat that you should try to get.
+  - for mastery+++, ocean 6%, 4 piece raid effect 10%, life wave 10%
 
 ## Imagines
 
@@ -148,7 +150,7 @@ Recommended setup:
 
 Recommended priority:
 
-**Life Wave → Damage Stack → Elite Strike = INT → Cast Speed → Crit Focus → Luck Focus**
+**Damage Stack / life wave → Elite Strike = INT → Cast Speed → Crit Focus → Luck Focus**
 
 ---
 
@@ -158,9 +160,9 @@ Target stats **without buffs**:
 
 | Stat | Target |
 |---|---:|
-| **Haste+** | 42% |
+| **Haste+** | 45% |
 | **Luck+** | 40% |
-| **Mastery** | 40% |
+| **Mastery** | 35% |
 | **Crit** | 15% |
 
 ### Stat Priorities
@@ -169,7 +171,6 @@ Target stats **without buffs**:
 - Put all **reforge** and **embeds** into **Luck**.
 - Obtain the required Crit from **Luck / Crit accessory pieces**.
 - For ocean weapon users, magic damage % / luck % / haste % / 6% mag boost during permafrost
-  - Prioritize **big Luck, small Crit**.
 - For the **necklace**, aim for **Haste and Crit**.
 
 ## Imagines
@@ -198,11 +199,9 @@ You have 2 choices with Raid Sets.
 ## Talents (boss oriented):
 ![Frost Beam](images/talent.jpg)
 
-**For high master push, you will want to swap out one of the frozen gale talent nodes for frost shock.
-
-
+**For high master push, you will want to swap out one of the frozen gale talent nodes for frost shock for more AoE damage.
 
 
 ## Final Notes
 
-S3 Frost Beam is a non-meta class. Play only if you like the class.
+S3 Frost Beam is a non-meta class. Play if you like the class.
