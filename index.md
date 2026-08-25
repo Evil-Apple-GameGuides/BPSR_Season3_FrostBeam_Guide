@@ -184,36 +184,7 @@ Recommended combination:
 
 ---
 
-# Quick Reference
-
-## Endless Mind
-
-| Category | Recommendation |
-|---|---|
-| **Best for** | More forgiving gameplay |
-| **Polarity** | X3, X1 |
-| **Inspiration** | X10, X3, X6 |
-| **Reality** | X4, X6 |
-| **Haste** | 40% |
-| **Luck+** | 40% |
-| **Mastery** | 40% |
-| **Crit** | 15% |
-| **Imagines** | Furball + Predatory Spider / Muku Chief / Rorola |
-
-## Fantasia Impact
-
-| Category | Recommendation |
-|---|---|
-| **Best for** | Higher damage, more DPS variance |
-| **Polarity** | X3, X1 |
-| **Inspiration** | X10, X3, X6 |
-| **Reality** | X4, X6 |
-| **Haste** | 42% |
-| **Luck+** | 40% |
-| **Mastery** | 40% |
-| **Crit** | 15% |
-| **Necklace** | Haste + Crit |
-| **Imagines** | Furball + Predatory Spider / Muku Chief / Rorola |
+# Gear and Talents
 
 ---
 
