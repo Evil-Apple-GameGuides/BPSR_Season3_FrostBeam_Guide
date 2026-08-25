@@ -4,7 +4,9 @@
 
 Frost Beam in Season 3 is a stationary frost cannon with limited mobility. To play the class well, a greater focus is needed on understanding the **minimum required movement** to complete raid or dungeon mechanics.
 
-Frost Beam is a **burst DPS** class that can specialize in either **AoE damage** or **single-target damage**, depending on the build. Builds can be swapped using presets based on the encounter.
+Frost Beam is a **burst DPS** class that can specialize in either **AoE damage** or **single-target damage**, depending on the build. Builds can be swapped using presets based on the encounter. While adjustments are possible, frost beam is generally not a great AoE DPS in most dungeon content. It falls behind skyward, falcon and smite in most mob packs. It performs slightly worse than formless and vanguard when mob packs are more spread out / do gather well from maelstrom.
+
+Frost Shock talent node and Fantasia Impact are what you should take for a more AoE oriented build.
 
 ---
 
