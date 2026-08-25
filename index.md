@@ -204,7 +204,7 @@ Recommended combination:
 | **Polarity** | X3, X1 |
 | **Inspiration** | X10, X3, X6 |
 | **Reality** | X4, X6 |
-| **Haste+** | 42% |
+| **Haste** | 42% |
 | **Luck+** | 40% |
 | **Mastery** | 40% |
 | **Crit** | 15% |
