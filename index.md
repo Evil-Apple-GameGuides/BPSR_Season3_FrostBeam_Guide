@@ -196,7 +196,7 @@ You have 2 choices with Raid Sets.
 ![Frost Beam](images/talent.jpg)
 
 Talent Build Link: [https://questlog.gg/blue-protocol/en/talent-builder/guest?build-id=1016](https://questlog.gg/blue-protocol/en/talent-builder/sTLg3gApBcIx?build-id=1016)  
-**For dungeons, you may want to use the alternative more AoE tree instead.
+**For more AoE damage, trade in frost shock talent node.
 
 
 ## Final Notes
