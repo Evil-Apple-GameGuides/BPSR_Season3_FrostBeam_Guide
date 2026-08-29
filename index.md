@@ -184,10 +184,11 @@ Recommended combination:
 - Predatory Spider
 - Muku Chief
 - Rorola
-
-Predatory spider provides the highest parsing damage. Muku chief is about 1-3% behind Predatory spider.
-In dungeon contents with lifebind, pred spider is best out of the 3.
+  
+Predatory spider provides the highest parsing damage. Muku chief is about 1-3% behind Predatory spider.  
+In dungeon contents with lifebind, pred spider is best out of the 3.  
 For raids where you are fully buffed by both concerto and lifebind, muku chief may outperform predatory spider. (speculation: raid runs have too much variance for this to be reliably tested)
+
 ---
 
 # Gear and Talents
