@@ -32,17 +32,7 @@ Choose **Endless Mind** if you want a more forgiving Frost Beam gameplay experie
 | **Polarity** | X3, X1 |
 | **Inspiration** | X10, X3, X6 |
 | **Reality** | X4, X6 |
-
-## Alternative Factors — Non-Stationary Boss
-
-For bosses that require more movement, use the following alternative Factors:
-
-| Factor Type | Alternative |
-|---|---|
-| **Polarity** | X3, X1 |
-| **Inspiration** | X10, X7, X6 |
-| **Reality** | X5, X6 |
-
+  
 ## Endless Mind Scope Path
 
 Take **everything on the left** except for **Class Stasis**.
@@ -57,7 +47,7 @@ Recommended priority:
 
 ## Stat Distribution
 
-Target stats **without buffs**:
+Target base stats distribution **without buffs**:
 
 | Stat | Target |
 |---|---:|
@@ -66,10 +56,10 @@ Target stats **without buffs**:
 | **Mastery+++** | 40% |
 | **Crit** | 15% |
 
-### Stat Priorities
 
-- Obtain **Mastery** and **Haste** naturally from raid set pieces.
-- Put all **reforge** and **embeds** into **Luck**.
+### Stat Priorities
+- hit required haste and mastery breakpoints by Obtaining **Mastery** and **Haste** naturally from raid set pieces and weapon breakthroughs. 
+- Put all **reforge** and **embeds** into **Luck**. If you are unable to hit 40% haste for spider, put 1 embed into haste.
 - For ocean weapon users, magic damage % / luck % / mastery % / 6% mag boost during permafrost
 - Obtain the required Crit from **Luck / Crit accessory pieces**.
   - Prioritize **big Luck, small Crit**.
@@ -101,7 +91,7 @@ Choose **Fantasia Impact** if you want extra damage, but be aware that your DPS 
 
 ---
 
-## Fantasia Impact — Dungeon Build
+## Fantasia Impact — AoE Build (mostly for dungeons)
 
 ### Factors
 
@@ -123,7 +113,7 @@ Recommended setup:
 
 ---
 
-## Fantasia Impact — Boss Build
+## Fantasia Impact — Boss Build (better single target)
 
 This build is **less forgiving when breaking your rotation**.
 
@@ -131,7 +121,7 @@ This build is **less forgiving when breaking your rotation**.
 
 | Factor Type | Recommended |
 |---|---|
-| **Polarity** | X3, X1, X6 |
+| **Polarity** | X3, X1, X9 |
 | **Inspiration** | X10, X6 |
 | **Reality** | X4, X6 |
 
