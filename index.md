@@ -4,7 +4,7 @@
 
 Frost Beam in Season 3 is a stationary frost cannon with limited mobility. To play the class well, a greater focus is needed on understanding the **minimum required movement** to complete raid or dungeon mechanics and burst windows around the mechanics.
 
-Frost Beam is a **burst DPS** class that can specialize in either **AoE damage** or **single-target damage**, depending on the build. Builds can be swapped using presets based on the encounter. While adjustments are possible, frost beam is generally not a great AoE DPS in most dungeon content. It falls behind skyward, falcon and smite in most mob packs. It performs slightly worse than formless and vanguard when mob packs are more spread out / do gather well from maelstrom.
+Frost Beam is a **burst DPS** class that deals high amounts of damage in a short burst window but frost beam is generally neither great at single target nor AoE damage over a long period of time. It falls behind skyward, falcon and smite in AoE damage. It performs slightly worse than formless and vanguard when mob packs are more spread out / do gather well from maelstrom.
 
 Frost Shock talent node and Fantasia Impact are what you should take for a more AoE oriented build.
 
@@ -75,6 +75,7 @@ Target stats **without buffs**:
   - Prioritize **big Luck, small Crit**.
   - each '+' represent one source of flat % stat that you should try to get.
   - for mastery+++, ocean 6%, 4 piece raid effect 10%, life wave 10%
+  - for luck +, ocean 6%.
 
 ## Imagines
 
@@ -162,7 +163,7 @@ Target stats **without buffs**:
 |---|---:|
 | **Haste+** | 45% |
 | **Luck+** | 40% |
-| **Mastery** | 35% |
+| **Mastery++** | 35% |
 | **Crit** | 15% |
 
 ### Stat Priorities
@@ -172,6 +173,7 @@ Target stats **without buffs**:
 - Obtain the required Crit from **Luck / Crit accessory pieces**.
 - For ocean weapon users, magic damage % / luck % / haste % / 6% mag boost during permafrost
 - For the **necklace**, aim for **Haste and Crit**.
+  - each '+' represent one source of flat % stat that you should try to get.
 
 ## Imagines
 
@@ -183,6 +185,9 @@ Recommended combination:
 - Muku Chief
 - Rorola
 
+Predatory spider provides the highest parsing damage. Muku chief is about 1-3% behind Predatory spider.
+In dungeon contents with lifebind, pred spider is best out of the 3.
+For raids where you are fully buffed by both concerto and lifebind, muku chief may outperform predatory spider. (speculation: raid runs have too much variance for this to be reliably tested)
 ---
 
 # Gear and Talents
@@ -193,7 +198,7 @@ Recommended combination:
 
 You have 2 choices with Raid Sets. 
 - mastery stacking: 4 piece Season 1 + 2 piece of Season 2
-- fantasia builds / non-mastery stacking builds: 2 piece Season 1 + 4 piece of Season 2
+- non-mastery stacking builds: 2 piece Season 1 + 4 piece of Season 2
 
 
 ## Talents (boss oriented):
@@ -203,5 +208,8 @@ You have 2 choices with Raid Sets.
 
 
 ## Final Notes
+Damage difference between endless mind and fantasia is nearly identical with this stat distribution.
+For dungeon content with lifebinds, fantasia will outperform endless mind
 
-S3 Frost Beam is a non-meta class. Play if you like the class.
+
+S3 Frost Beam is a non-meta class. Play if you like the class. This is probably going to become a guide for SEA since NA season 3 is almost over. Oh well.
