@@ -195,8 +195,8 @@ You have 2 choices with Raid Sets.
 ## Talents (boss oriented):
 ![Frost Beam](images/talent.jpg)
 
-Talent Build Link: [https://questlog.gg/blue-protocol/en/talent-builder/guest?build-id=1016](https://questlog.gg/blue-protocol/en/talent-builder/sTLg3gApBcIx?build-id=1016)
-**For high master push, you will want to swap out one of the frozen gale talent nodes for frost shock for more AoE damage.
+Talent Build Link: [https://questlog.gg/blue-protocol/en/talent-builder/guest?build-id=1016](https://questlog.gg/blue-protocol/en/talent-builder/sTLg3gApBcIx?build-id=1016)  
+**For dungeons, you may want to use the alternative more AoE tree instead.
 
 
 ## Final Notes
